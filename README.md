@@ -1,1 +1,2 @@
-# Tower-Defense-Game
+# SlimeTowerDefenseGame
+使用pygame函式庫
